@@ -3,3 +3,5 @@ hey
 its another new file
 
 and that's the end of this chapter
+
+java is cool
